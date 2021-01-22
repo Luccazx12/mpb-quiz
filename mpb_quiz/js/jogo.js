@@ -84,7 +84,21 @@ var deck = [
     ]
 
 var vid = document.getElementById("video");
-vid.volume = 0.2;
+
+function getVolume() { 
+  alert(vid.volume);
+} 
+  
+function setHalfVolume() { 
+  vid.volume = 0.2;
+} 
+  
+function setFullVolume() { 
+  vid.volume = 1.0;
+} 
+
+setHalfVolume()
+
 
 var maxQuestions = 9
 var pontos = 0;
