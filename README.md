@@ -25,7 +25,6 @@ markdown ![GitHub Logo](./docs/Tela_do_end_game.jpg)
 markdown ![GitHub Logo](./docs/Tela_do_highscore.jpg)
 
 //
-//
 
 INTRODUÇÃO
 
