@@ -128,7 +128,7 @@ function verificaResposta(alt) {
         localStorage.setItem('mostRecentScore', pontos);
         
         // Ir pra pag end.html
-        return window.location.assign('/end.html')   
+        return window.location.assign('./end.html')   
     }
     else if (alt == deck[currentQuestion].correta) {
         console.log("resposta correta")
