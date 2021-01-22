@@ -16,9 +16,29 @@ O "MPB" Quiz se trata de um jogo de múltiplas escolhas baseado nas Músicas pop
 
 
 ## Wireframe
+Página Inicial (index.html)
 ![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_de_start.JPG)
+
+
+&nbsp;
+
+
+Perguntas e Respostas (jogo.html)
 ![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_do_jogo.JPG)
+
+
+
+&nbsp;
+
+
+Parte de registrar os pontos no seu usuário (end.html)
 ![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_do_end_game.JPG)
+
+
+&nbsp;
+
+
+Ranking (recordes.html)
 ![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_do_highscore.JPG)
 
 //
