@@ -45,7 +45,7 @@ Ranking (recordes.html)
 ![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_do_highscore.JPG)
 
 
-//
+
 
 ### INTRODUÇÃO
 
