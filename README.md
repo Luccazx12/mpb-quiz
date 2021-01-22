@@ -19,10 +19,10 @@ Manual
 
 
 WireFrame
-markdown ![GitHub Logo](./docs/Tela_de_start.jpg)
-markdown ![GitHub Logo](./docs/Tela_do_jogo.jpg)
-markdown ![GitHub Logo](./docs/Tela_do_end_game.jpg)
-markdown ![GitHub Logo](./docs/Tela_do_highscore.jpg)
+markdown ![GitHub Logo](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_de_start.JPG)
+markdown ![GitHub Logo](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_do_jogo.JPG)
+markdown ![GitHub Logo](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_do_end_game.JPG)
+markdown ![GitHub Logo](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_do_highscore.JPG)
 
 //
 
