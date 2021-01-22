@@ -1,0 +1,182 @@
+body{
+	display: flex;
+    margin: 0;
+    padding: 0;
+	font-size: 20px;
+	font-family: sans-serif;
+    color: #333;
+    width: auto;
+	background-image: url("https://1.bp.blogspot.com/-nWOlewsao24/XhvdxHJu92I/AAAAAAAAj54/BIdyFO2yrQMAtLP6FW1_ZXkNP7x8dX8xQCLcBGAsYHQ/w1200-h630-p-k-no-nu/space_ring_2-wallpaper-2880x1620.jpg");
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-color: hotpink;
+}
+
+
+#inicial {
+	display:inline-block;
+	text-align: center;
+	align-items: center;
+}
+
+#botaoinicial {
+
+	background-color: black;
+	font-family: sans-serif;
+	font-size: 20px;
+	color: white;
+	width: 250px;
+	height: 50px;
+
+}
+
+:root{
+    background-color: #fdfdfd;
+    font-size: 62.5%;
+}
+
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: rgb(0, 0, 0);
+}
+
+h1, h2, h3, h4{
+    margin-bottom: 1rem;
+}
+
+h1{
+    font-size: 5.4rem;
+    color: #010c16;
+    margin-bottom: 5rem;
+}
+
+h1 > span{
+    font-size: 2.4rem;
+    font-weight: 500;
+}
+
+h2{
+    font-size: 4.2rem;
+    margin-bottom: 4rem;
+    font-weight: 700;
+}
+
+h3{
+    font-size: 2.8rem;
+    font-weight: 500;
+}
+
+/* utilities */
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 80rem;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.container > *{
+    width: 100%;
+}
+
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-center{
+    justify-content: center;
+    align-items: center;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.hidden{
+    display: none;
+}
+
+/* Botões */
+
+.btn{
+    font-size: 1.8rem;
+    padding: 1rem 0;
+    width: 20rem;
+    text-align: center;
+    border: 0.1rem solid #000000;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    color: white;
+    background-color: black
+}
+
+.btn:hover{
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(3, 8, 10, 0.5);
+    transform: translate(-0.1rem);
+    transition: transform 150ms;
+}
+
+/* Forms */
+
+form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Inputs */
+.input {
+    margin-bottom: 1rem;
+    width: 5%;
+    padding: 1.5rem;
+    font-size: 1.8rem;
+	box-shadow: 0 0.1rem 0.5rem 0 lightblue;
+	background-color: red;
+    color:white;
+    border: 0.001rem solid #000000;
+}
+
+input::placeholder{
+    color: rgba(255, 255, 255, 0.596)
+}
+
+/* Nome de usuário no End.html */
+#username { 
+    width: 45%;
+    height: 5px;
+   background-color:rgba(255, 255, 255, 0.1);
+   text-align: center;
+}
+
+/* Div secundária do End.html */
+#highscoresEnd {
+    padding-bottom: 250px;
+    width: 50%;
+    height: 150px;
+
+}
+
+/* Onde vai ficar a pontuação que o usuário fez no jogo.html*/
+#scoreEnd {
+    width: 100%;
+    height: 9000px;
+    background-color: white;
+    text-align: center;
+    margin-top: 20px;
+}

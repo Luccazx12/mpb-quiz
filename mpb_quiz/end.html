@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parabéns</title>
+    <link rel="stylesheet" href="./css/main.css" />
+</head>
+
+<body>
+    <div class="container">
+        <div id="highscoresEnd" class="flex-center flex-column">
+            <div id="scoreEnd"></div>
+            <h1 id="finalScore">0</h1>
+            <input class="input" type="text" name="username" id="username" placeholder="Nome de Usuário"></input>
+            <button onclick="saveHighScore(event)" id="saveScoreBtn" class="btn">Salvar</button>
+            <a class="btn" href="./jogo.html">Jogar Novamente</a>
+            <a class="btn" href="/">Voltar</a>
+        </div>
+    </div>
+    <script src="./js/end.js"></script>
+</body>
+
+</html>

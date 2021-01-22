@@ -1,0 +1,87 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    margin: 0;
+	font-size: 20px;
+    font-family: sans-serif;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+main{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: white;
+}
+
+#tabuleiro{ 
+    display:flex; 
+    margin-top: 6%;
+    padding-top: 2%;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    /* background-color: red; */
+}
+
+.card{
+    display:absolute;
+    width: 40%;
+    padding-bottom: 3%;
+    height: 60%;
+    background-color: rgba(255,255,255, 0.1);
+    box-shadow: cyan 20px 20px 130px;
+    border: 10px;
+    border-radius: 200px;
+    align-items: center;
+    text-align: center
+}
+
+#backjogo {
+    margin-top: 8%;
+    width: 100%;
+    justify-content: space-around;
+}
+
+#backjogobutton {
+    height: 23%;
+    border: black;
+    font-family: sans-serif;
+    font-size: 18px;
+    width: 80px;
+    text-align: center;
+}
+
+#ayr {
+    color: black;
+    font-size: 70px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: oblique;
+    font-weight:bolder;
+    font-stretch: condensed;
+    font-variant: small-caps;
+    
+}
+
+#buttongame {
+    width: 100%;
+    height: 30%;
+    text-align: center;
+    margin-top: 1%;
+}
+
+.input:hover{
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(3, 8, 10, 0.5);
+    transform: translate(-0.1rem);
+    transition: transform 150ms;
+}
