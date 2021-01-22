@@ -132,7 +132,6 @@ function iniciaJogo(id) {
         </div><br>
         <a style="text-shadow: 2px 2px 25px hotpink;font-family: arial;">Pontuação: ${pontos} <br> ${correta}</a>
         `
-    setHalfVolume()
 }
 
 
@@ -163,6 +162,7 @@ function verificaResposta(alt) {
 }
 
 iniciaJogo(0);
+setHalfVolume();
 
 // function iniciaScore() {}
 // function novoRecord() {
