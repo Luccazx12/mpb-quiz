@@ -15,18 +15,15 @@ O "MPB" Quiz se trata de um jogo de múltiplas escolhas baseado nas Músicas pop
 
 
 
-
-
-
 ## Wireframe
-[GitHub Logo](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_de_start.JPG)
-[GitHub Logo](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_do_jogo.JPG)
-[GitHub Logo](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_do_end_game.JPG)
-[GitHub Logo](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_do_highscore.JPG)
+![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_de_start.JPG)
+![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_do_jogo.JPG)
+![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_do_end_game.JPG)
+![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_do_highscore.JPG)
 
 //
 
-INTRODUÇÃO
+### INTRODUÇÃO
 
   Nos foi solicitado a criação de um site responsivo que com utilização de Html, JavaScript e CSS formaria assim um quiz de perguntas e respostas sobre quaisquer temas que escolhêssemos.
 
@@ -37,7 +34,7 @@ INTRODUÇÃO
   Logo após, foquei nas estruturas de decisão para conseguir validar as perguntas, a parte de redirecionamento e o LocalStorage para conseguir guardar localmente a pontuação obtida pelo usuário.
 
 
-CONCLUSÃO
+### CONCLUSÃO
 
   Executar essa série de passos para conseguir formular um site de um Quiz, que mesmo sendo básico é algo trabalhoso, me trouxe bastante conhecimento sobre consumir informações de um banco de dados, ou então pelo menos uma ideia do que vem pela frente, em relação a API, Banco de dados etc.
 
