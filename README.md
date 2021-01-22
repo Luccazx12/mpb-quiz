@@ -43,6 +43,7 @@ Parte de registrar os pontos no seu usuário (end.html)
 
 
 Ranking (recordes.html)
+&nbsp;
 ![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_do_highscore.JPG)
 
 
