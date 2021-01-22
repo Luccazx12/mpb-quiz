@@ -83,6 +83,20 @@ var deck = [
     },
     ]
 
+var vid = document.getElementById("video-1");
+
+function getVolume() { 
+alert(vid.volume);
+} 
+
+function setHalfVolume() { 
+vid.volume = 0.2;
+} 
+
+function setFullVolume() { 
+vid.volume = 1.0;
+} 
+
 var maxQuestions = 9
 var pontos = 0;
 var currentQuestion = 0;
@@ -117,6 +131,7 @@ function iniciaJogo(id) {
         </div><br>
         <a style="text-shadow: 2px 2px 25px hotpink;font-family: arial;">Pontuação: ${pontos} <br> ${correta}</a>
         `
+    setHalfVolume();
 }
 
 
