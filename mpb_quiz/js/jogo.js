@@ -97,8 +97,6 @@ function setFullVolume() {
   vid.volume = 1.0;
 } 
 
-setHalfVolume()
-
 
 var maxQuestions = 9
 var pontos = 0;
@@ -134,6 +132,7 @@ function iniciaJogo(id) {
         </div><br>
         <a style="text-shadow: 2px 2px 25px hotpink;font-family: arial;">Pontuação: ${pontos} <br> ${correta}</a>
         `
+    setHalfVolume()
 }
 
 
