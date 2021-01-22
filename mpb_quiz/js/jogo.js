@@ -83,20 +83,6 @@ var deck = [
     },
     ]
 
-var vid = document.getElementById("video-1");
-
-function getVolume() { 
-alert(vid.volume);
-} 
-
-function setHalfVolume() { 
-vid.volume = 0.2;
-} 
-
-function setFullVolume() { 
-vid.volume = 1.0;
-} 
-
 var maxQuestions = 9
 var pontos = 0;
 var currentQuestion = 0;
@@ -118,7 +104,7 @@ function iniciaJogo(id) {
     card.innerHTML =
         `
         <h2 style="margin-bottom: -1%;font-size: 45px;">${deck[id].questao}</h2>
-        <video style="margin-top:3%; border-radius: 20%;" width="50%" height="50%" id="video-1" alt="#" controls>
+        <video style="margin-top:3%; border-radius: 20%;" width="50%" height="50%" id="video-1" alt="#" muted controls>
             <source src="${deck[id].videoSrc}" type="video/mp4">
         </video> <br>
         <div style="text-align: justify;background-color: width: 100%; margin-left: 30%">
@@ -131,7 +117,6 @@ function iniciaJogo(id) {
         </div><br>
         <a style="text-shadow: 2px 2px 25px hotpink;font-family: arial;">Pontuação: ${pontos} <br> ${correta}</a>
         `
-    setHalfVolume();
 }
 
 
@@ -162,7 +147,6 @@ function verificaResposta(alt) {
 }
 
 iniciaJogo(0);
-setHalfVolume();
 
 // function iniciaScore() {}
 // function novoRecord() {
