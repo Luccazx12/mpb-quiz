@@ -15,6 +15,32 @@ Link do jogo: https://luccazx12.github.io/mpb-quiz/mpb_quiz/index.html
 ![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Manual.jpg)
 
 
+&nbsp;
+
+
+### Para Melhor Vizualização:
+![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/tela_inicial_manual.png)
+
+
+&nbsp;
+
+
+![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/tela_jogo_manual.png)
+
+
+&nbsp;
+
+
+![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/tela_end_manual.png)
+
+
+&nbsp;
+
+
+![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/tela_highscore_manual.png)
+
+
+
 
 
 
