@@ -83,6 +83,9 @@ var deck = [
     },
     ]
 
+var vid = document.getElementById("video");
+vid.volume = 0.2;
+
 var maxQuestions = 9
 var pontos = 0;
 var currentQuestion = 0;
