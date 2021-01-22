@@ -8,7 +8,7 @@ O "MPB" Quiz se trata de um jogo de múltiplas escolhas baseado nas Músicas pop
 
 Manual
 
-![Image](../docs/Tela_de_start.jpg?raw=true)
+![Image](./docs/Tela_de_start.jpg?raw=true)
 
 
 
