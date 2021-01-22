@@ -13,7 +13,7 @@ Link do jogo: https://luccazx12.github.io/mpb-quiz/mpb_quiz/index.html
 
 &nbsp;
 
-## :---Manual---:
+## <p align="center">Manual</p>
 
 ![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Manual.jpg)
 
