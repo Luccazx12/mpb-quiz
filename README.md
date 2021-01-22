@@ -8,7 +8,7 @@ O "MPB" Quiz se trata de um jogo de múltiplas escolhas baseado nas Músicas pop
 
 Manual
 
-
+markdown ![GitHub Logo](./docs/manual.jpg)
 
 
 
@@ -19,6 +19,11 @@ Manual
 
 
 WireFrame
+markdown ![GitHub Logo](./docs/Tela_de_start.jpg)
+markdown ![GitHub Logo](./docs/Tela_do_jogo.jpg)
+markdown ![GitHub Logo](./docs/Tela_do_end_game.jpg)
+markdown ![GitHub Logo](./docs/Tela_do_highscore.jpg)
+
 
 INTRODUÇÃO
 
