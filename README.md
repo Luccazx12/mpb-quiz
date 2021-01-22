@@ -27,7 +27,7 @@ Link do jogo: https://luccazx12.github.io/mpb-quiz/mpb_quiz/index.html
 
 &nbsp;
 
-## <p align="center">**OBS: O jogo inicia com volume mudo. Altere o volume após entrar no jogo, recomendo deixar um valor baixo!!!**</p>
+### <p align="center">**OBS: O jogo inicia com volume mudo. Altere o volume após entrar no jogo, recomendo deixar um valor baixo!!!**</p>
 
 ![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/tela_jogo_manual.png)
 
