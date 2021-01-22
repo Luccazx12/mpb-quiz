@@ -83,21 +83,6 @@ var deck = [
     },
     ]
 
-var vid = document.getElementById("video");
-
-function getVolume() { 
-  alert(vid.volume);
-} 
-  
-function setHalfVolume() { 
-  vid.volume = 0.2;
-} 
-  
-function setFullVolume() { 
-  vid.volume = 1.0;
-} 
-
-
 var maxQuestions = 9
 var pontos = 0;
 var currentQuestion = 0;
