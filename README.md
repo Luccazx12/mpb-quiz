@@ -8,7 +8,7 @@ O "MPB" Quiz se trata de um jogo de múltiplas escolhas baseado nas Músicas pop
 
 
 &nbsp;
-Link do jogo: https://luccazx12.github.io/mpb-quiz/mpb_quiz/index.html/
+Link do jogo: https://luccazx12.github.io/mpb-quiz/mpb_quiz/index.html
 
 
 &nbsp;
