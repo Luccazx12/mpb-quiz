@@ -8,40 +8,40 @@ O "MPB" Quiz se trata de um jogo de múltiplas escolhas baseado nas Músicas pop
 
 
 &nbsp;
-Link do jogo: https://luccazx12.github.io/mpb-quiz/mpb_quiz/index.html
+Link do jogo: https://luccazx12.github.io/mpb-quiz/mpb_quiz/index.html/
 
 
 &nbsp;
 
 ## Manual
 
-![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Manual.jpg)
+![Image](https://raw.githubusercontent.com/Luccazx12/mpb-quiz/main/docs/Manual.jpg)
 
 
 &nbsp;
 
 
 ## Para Melhor Vizualização:
-![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/tela_inicial_manual.png)
+![Image](https://raw.githubusercontent.com/Luccazx12/mpb-quiz/main/docs/tela_inicial_manual.png)
 
 
 &nbsp;
 
 ### <p align="center">**OBS: O jogo inicia com volume mudo. Altere o volume após entrar no jogo, recomendo deixar um valor baixo!!!**</p>
 
-![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/tela_jogo_manual.png)
+![Image](https://raw.githubusercontent.com/Luccazx12/mpb-quiz/main/docs/tela_jogo_manual.png)
 
 
 &nbsp;
 
 
-![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/tela_end_manual.png)
+![Image](https://raw.githubusercontent.com/Luccazx12/mpb-quiz/main/docs/tela_end_manual.png)
 
 
 &nbsp;
 
 
-![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/tela_highscore_manual.png)
+![Image](https://raw.githubusercontent.com/Luccazx12/mpb-quiz/main/docs/tela_highscore_manual.png)
 
 
 
@@ -54,14 +54,14 @@ Link do jogo: https://luccazx12.github.io/mpb-quiz/mpb_quiz/index.html
 
 &nbsp;
 Página Inicial (index.html)
-![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_de_start.JPG)
+![Image](https://raw.githubusercontent.com/Luccazx12/mpb-quiz/main/docs/Tela_de_start.JPG)
 
 
 &nbsp;
 
 
 Perguntas e Respostas (jogo.html)
-![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_do_jogo.JPG)
+![Image](https://raw.githubusercontent.com/Luccazx12/mpb-quiz/main/docs/Tela_do_jogo.JPG)
 
 
 
@@ -69,7 +69,7 @@ Perguntas e Respostas (jogo.html)
 
 
 Parte de registrar os pontos no seu usuário (end.html)
-![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_do_end_game.JPG)
+![Image](https://raw.githubusercontent.com/Luccazx12/mpb-quiz/main/docs/Tela_do_end_game.JPG)
 
 
 
@@ -80,7 +80,7 @@ Ranking (recordes.html)
 
 
 &nbsp;
-![Image](https://github.com/Luccazx12/mpb-quiz/blob/main/docs/Tela_do_highscore.JPG)
+![Image](https://raw.githubusercontent.com/Luccazx12/mpb-quiz/main/docs/Tela_do_highscore.JPG)
 
 
 &nbsp;
