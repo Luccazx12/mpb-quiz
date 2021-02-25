@@ -1,8 +1,6 @@
-# mpb-quiz
-Trabalho Acadêmico da matéria LIMA realizado Individualmente para fechamento do primeiro semestre do Curso Técnico de Desenvolvimento de Sistemas do Senai. Quiz contendo HTML, CSS, JS e JSON.
-
-
 # **MPB QUIZ**
+
+Trabalho Acadêmico da matéria LIMA realizado Individualmente para fechamento do primeiro semestre do Curso Técnico de Desenvolvimento de Sistemas do Senai. Quiz contendo HTML, CSS, JS e JSON.
 
 O "MPB" Quiz se trata de um jogo de múltiplas escolhas baseado nas Músicas populares Brasileiras, fazendo uma brincadeira com o gênero MPB, onde o usuário tem que adivinhar qual é a música ou o cantor através de um Videoclipe. O site conta com várias funcionalidades, a partir das imagens abaixo, vou explicar como jogar o jogo, registrar seu score e disputar com outras pessoas!!
 
